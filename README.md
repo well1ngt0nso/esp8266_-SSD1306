@@ -14,7 +14,25 @@ Escolhi adquirir essa placa porque ela é bem compacta e já possui a integraç�
 _**⚠️OBS:**_
 Caso a sua vesão do microcoontolador seja com módulo integrado, não faça o uoloud de nenhum sketch para o seu Esp8266 antes de anotar ou salvar algumas informações importantes. Mas não se preocupe caso já tenha feito o upload de algo, trataremos nos próximos tópicos
 
-## Parte 1 (Geral de Esp8266) 
-Então, pessoal, esses conceitos são bem inicias, não é nenhuma aula de programação sobre esp8266, então caso você não queira ou já conheça, basta pular para o próximo tópico [ 2 GERAL DISPLAY LCD OLED SDD1306](https://github.com/well1ngt0nso/esp8266_SSD1306/edit/main/README.md#2-geral-de-display-lcd-oled-sdd1306)
-## 2 GERAL DISPLAY LCD OLED SDD1306: 
+## PARTE  1 - ESP8266 
+Então, pessoal, esses conceitos são bem inicias, não é nenhuma aula de programação sobre esp8266, então caso você não queira ou já conheça, basta pular para o próximo tópico [ PARTE 2 - DISPLAY LCD OLED SDD1306](https://github.com/well1ngt0nso/esp8266_SSD1306/tree/main?tab=readme-ov-file#2-geral-display-lcd-oled-sdd1306)
+
+O esp8266 assim como as demais placas da família esp são bem robustas, são bem completas quano comparadas a maioria das variabilidades de microcontroladores existentes no mercado. Sua versatilidade demanda não especificamente de atividades que são restritas ao esp, mas o fato de já vir com integração a circuitos que em outras placas seria necesário um módulo externo. Temho isso como muito bom, claro, dependendo da aplicação. Exemplo: O esp8266 em questão vem com display soldado na placa principal, caso o seu projeto precissase de um display distante não seria "possível", não com a mesma configuração, poderia ser utilizado outro display ou desoldar o existente. Assim... nesses caso acho que você não optaria por um já soldado, o mesmo vale para os demais circuitos que já vem integrado: módudulo wifi, módulo bluethoth...
+
+Ou seja, caso o projeto não necessite de uma manipulação física entre o esp e os circuitos já integrados a placa, vale muito apena! Ainda acrescento, não somente apenas a isso, mas também em relação ao processamento(voltamos já a isso), deixando o texto de lado, vamor ver algo que acho muito interessante: miniaturização
+<p align="center">
+  <img src="https://github.com/well1ngt0nso/esp8266_SSD1306/assets/58373332/8e96141d-239c-4b54-a67a-3a48f38293ca" width="50%" />
+</p>
+Essa placa é muito compacta pelo que entrega, se encaixa em quase tudo, falo espcíficamente a essa versão, pois já encontrei outra bem menor (esp32 c3), nese caso agora ela deve se encaixar em tudo, chegou para disputar com os menores Arduinos existentes no mercado. Contudo, como nem tudo são flores, quando maior a miniaturização, menor a capacidade de suporte a saídas e entradas, vejamos uma comparação entre o esp8266 utilizado nesse repositório e o Arduino MEGA:
+
+
+<p align="center">
+  <img src="https://github.com/well1ngt0nso/esp8266_SSD1306/assets/58373332/2153e862-b998-4a18-9782-4c8d4c8a4d21" width="50%" />
+</p>
+
+
+
+
+
+## PARTE 2 - DISPLAY LCD OLED SDD1306: 
 O mesmo vale para esse tópico, são apenas conceitos introdutórios, o entendimento em si e programação começam nos tópicos seguintes: 
