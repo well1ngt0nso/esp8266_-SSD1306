@@ -38,10 +38,18 @@ Essa placa é muito compacta pelo que entrega, se encaixa em quase tudo, falo es
 
 
 <p align="center">
-  <img src="https://github.com/well1ngt0nso/esp8266_SSD1306/assets/58373332/92dfb519-06cd-4e0d-a64d-dff1f62305b3" />
-  <div align =  "center"><i>Diagrama de distribuição das GPIO's (pinos) no Arduino Mega</i></div>
+  <img src="https://github.com/well1ngt0nso/esp8266_SSD1306/assets/58373332/92dfb519-06cd-4e0d-a64d-dff1f62305b3"  width="50%"/>
+  <div align =  "center"><i>Diagrama de distribuição das GPIO's (pinos) no Arduino Mega</i> </div>
 </p>
+<br/>
+<br/>
 
+_**⚠️OBS: 🔎**_
+Cliando nas imagem você consegue ver em uma escala maior e melhor 
+
+
+<br/>
+<br/>
 
 Agora vamos ver uma tabela visual entre o Esp8266 e o Arduino UNO: 
 
