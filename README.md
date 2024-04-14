@@ -1,4 +1,4 @@
-# esp8266_SSD1306
+# 💻⚡ esp8266_SSD1306 ⚡💻
 Repositório destinado a utilização de Esp8266 com display oled SDD1306 já presente na placa, podendo ser facilmente expandido para utilização com o mesmo display externamente ou em alguma variação das placas Arduino e demais ESP's com display na placa ou externo, como veremos aseguir 
 
 * OBJETIVOS: Fundamentos sobre Esp8266, Fudementos de display OLED SSD1306, Compreendendo a placa com display integrado e Utilização e exemplos
@@ -27,12 +27,23 @@ Essa placa é muito compacta pelo que entrega, se encaixa em quase tudo, falo es
 
 
 <p align="center">
-  <img src="https://github.com/well1ngt0nso/esp8266_SSD1306/assets/58373332/2153e862-b998-4a18-9782-4c8d4c8a4d21" width="50%" />
+  <img src="https://github.com/well1ngt0nso/esp8266_SSD1306/assets/58373332/fe41cf13-182c-45f3-b008-688d8740324e" width="50%" />
+ <div align =  "center"><i>Diagrama de distribuição das GPIO's (pinos) no NodeMCU Esp8266</i></div>
+</p>
+
+<br/>
+<br/>
+<br/>
+
+
+
+<p align="center">
+  <img src="https://github.com/well1ngt0nso/esp8266_SSD1306/assets/58373332/92dfb519-06cd-4e0d-a64d-dff1f62305b3" />
+  <div align =  "center"><i>Diagrama de distribuição das GPIO's (pinos) no Arduino Mega</i></div>
 </p>
 
 
-
-
+Agora vamos ver uma tabela visual entre o Esp8266 e o Arduino UNO: 
 
 ## PARTE 2 - DISPLAY LCD OLED SDD1306: 
 O mesmo vale para esse tópico, são apenas conceitos introdutórios, o entendimento em si e programação começam nos tópicos seguintes: 
