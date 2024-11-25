@@ -55,3 +55,7 @@ Agora vamos ver uma tabela visual entre o Esp8266 e o Arduino UNO:
 
 ## PARTE 2 - DISPLAY LCD OLED SDD1306: 
 O mesmo vale para esse tópico, são apenas conceitos introdutórios, o entendimento em si e programação começam nos tópicos seguintes: 
+
+O funcioanamento é bem comum na maioria dos displays usualmente applicados em esp/arduino. Consiste em um conjunto de pixels organizaados em Linhas e Colunas, no nosso caso um display de 128 colunas por 64 linhas, onde cada pixel pode ser acessado de forma independente. Pensemos em uma matriz: 
+
+
